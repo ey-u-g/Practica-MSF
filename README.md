@@ -1,2 +1,2 @@
 # Practica-MSF
-Sistema Muscoesqueletico
+Sistema Musculoesqueletico
