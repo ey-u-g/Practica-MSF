@@ -4,7 +4,7 @@
 
 ## Información de la estudiante
 
-Corina Plata-Ante \[03210981]; corina.plata@tectijuana.edu.mx
+Eliza Yasunari Urbina Gómez \[22211768]; l22211768@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
